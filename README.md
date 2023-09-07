@@ -16,7 +16,7 @@ Pay link is a simple interface that provides pay-link functionality.
   - ```pip3 install virtualenv```
   - ```virtualenv venv```
   - ```venv\Scripts\activate```(windows) or ```source venv/bin/activate```(unix-based systems)
-* 3 - cd into project "cd payme-sample"
+* 3 - cd into project "cd Sp_FoodStory"
 * 4 - Install dependencies
   - ```pip3 install -r requirements.txt```
 * 5 - Set your environment variables
