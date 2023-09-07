@@ -1,11 +1,5 @@
 # Payme Implementation
 
-<p align="center">
-<a href="https://youtu.be/r2RO3kJVP7g">
-<img style="width: 60%;" src="https://i.postimg.cc/5NRRSHXp/homemuhammadali-Downloads-Telegram-Desktop-Closer-Li-QWYD-No-Copyright-Music-Audio-Library-Music-m4a.gif">
-</a>
-</p>
-
 ### API Endpoints <br>
 
 Pay link is a simple interface that provides pay-link functionality.
