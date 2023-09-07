@@ -1,0 +1,11 @@
+data/
+.vscode
+__pycache__/
+
+*.log
+*.pot
+*.pyc
+
+.env
+db.sqlite3
+venv
