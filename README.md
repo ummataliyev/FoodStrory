@@ -25,3 +25,6 @@ Pay link is a simple interface that provides pay-link functionality.
   - ```python3 manage.py test```
   - ```python3 manage.py migrate```
   - ```python3 manage.py runserver```
+
+### Learned from
+https://github.com/Muhammadali-Akbarov
